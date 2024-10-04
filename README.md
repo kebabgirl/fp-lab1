@@ -13,9 +13,9 @@
 ```lisp
 <тут має бути лістинг (текст) виконання загального завдання>
 ```
-## Варіант <номер варіанту>
+## Варіант 3
 <p align="center">
-<img src="lab-1-variant.png">
+![variant](https://github.com/kebabgirl/fp-lab1/blob/main/lab-1-variant.png)
 </p>
 ```lisp
 <тут має бути лістинг (текст) виконання завдання за варіантом>
