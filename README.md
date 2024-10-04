@@ -15,7 +15,7 @@
 ```
 ## Варіант 3
 <p align="center">
-![variant](https://github.com/kebabgirl/fp-lab1/blob/main/lab-1-variant.png)
+![var](lab-1-variant.png)
 </p>
 ```lisp
 <тут має бути лістинг (текст) виконання завдання за варіантом>
