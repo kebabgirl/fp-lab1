@@ -15,7 +15,7 @@
 ```
 ## Варіант 3
 <p align="center">
-![var](./lab-1-variant.png)
+<img src="lab-1-variant.png">
 </p>
 ```lisp
 <тут має бути лістинг (текст) виконання завдання за варіантом>
